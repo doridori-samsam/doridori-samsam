@@ -1,4 +1,4 @@
-## <div align="center">Hello stranger! 😎
+# <div align="center">Hello stranger! 😎
 I'm Sohyun Park, a front-end web developer. <br>I'm always down to communicate with people from all around the world(including you!) so I can get some better ideas to make things a little bit easier in our life.
 
 <br>
