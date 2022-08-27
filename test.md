@@ -8,3 +8,5 @@
 
 ###### 💙SNS💙
  <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-#000000?style=flat-square&logo=Facebook&logoColor=white"/></a>
+
+<a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue?style=plastic&logo=facebook"/></a>
