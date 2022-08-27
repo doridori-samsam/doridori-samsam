@@ -4,14 +4,18 @@
 ##### 편리함과 소소한 기쁨을 가져다 주는 개발자가 되길 희망하는 박소현입니다.
 ##### 이를 위해 꾸준히 프론트엔드 개발을 학습 중입니다. 
 
-<br><br/>
+<br>
 
 ###### 💙SNS💙
  <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-DevBlog-%23000000?style=flat-square&logo=tistory"/></a>&nbsp;&nbsp;&nbsp;<a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sohyunii_sohoney/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-<br><br/>
+<br>
 
 ###### ❤Tech Stack❤
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white">&nbsp;
 <br>
+
 <img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwind css&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white">&nbsp;
+
+✏...studying
+TypeScript, Redux, svelte
