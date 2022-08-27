@@ -26,3 +26,8 @@
 
 ###### 💜Currently interested in...💜
 <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-React Query-%23FF4154?style=flat-square&logo=react query&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-Svelte-%23FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+
+<br>
+<br/>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=doridori-samsam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
