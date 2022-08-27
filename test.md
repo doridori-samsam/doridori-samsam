@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SOHYUN&animation=fadeIn&fontSize=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SOHYUN Park&animation=fadeIn&fontSize=80&fontAlignY=40)
 
 ## 안녕하세요! 만나서 반가워요.👋
 ###### 편리함과 소소한 기쁨을 가져다 주는 개발자가 되길 희망하는 박소현입니다.
