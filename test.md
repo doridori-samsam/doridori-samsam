@@ -4,6 +4,7 @@
 ##### 편리함과 소소한 기쁨을 가져다 주는 개발자가 되길 희망하는 박소현입니다.
 ##### 이를 위해 꾸준히 프론트엔드 개발을 학습 중입니다. 
 
-<br/>
+<br><br/>
+
 ###### 💙SNS💙
  <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-#000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
