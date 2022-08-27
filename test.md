@@ -22,7 +22,8 @@
 
 ###### 🧡Side🧡
 <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;
+
 <br>
 
 ###### 💜Currently interested in...💜
-<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-React Query-%23FF4154?style=flat-square&logo=react query&logoColor=white"/>
