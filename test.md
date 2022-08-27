@@ -7,4 +7,4 @@
 <br><br/>
 
 ###### 💙SNS💙
- <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-DevBlog-%23000000?style=flat-square&logo=tistory"/></a>            <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>         <a href="https://www.instagram.com/sohyunii_sohoney/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+ <a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-DevBlog-%23000000?style=flat-square&logo=tistory"/></a>&nbsp;&nbsp;&nbsp;<a href="https://doridori-samsam.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sohyunii_sohoney/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
