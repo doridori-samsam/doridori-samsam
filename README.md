@@ -5,13 +5,13 @@
 #### 이를 위해 꾸준히 프론트엔드 개발을 학습 중입니다. 
 #### Email : wtawonlife@gmail.com
 
-<a href="https://github.com/devxb/gitanimals">
+
   <img
     src="https://render.gitanimals.org/lines/doridori-samsam"
     width="150"
     height="150"
   />
-</a>
+
   
 
 <br>
