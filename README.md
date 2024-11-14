@@ -4,14 +4,6 @@
 #### 편리함과 소소한 기쁨을 가져다 주는 개발자가 되길 희망하는 박소현입니다.
 #### 이를 위해 꾸준히 프론트엔드 개발을 학습 중입니다. 
 #### Email : wtawonlife@gmail.com
-
-
-  <img
-    src="https://render.gitanimals.org/lines/doridori-samsam"
-    width="150"
-    height="150"
-  />
-
   
 
 <br>
@@ -39,6 +31,14 @@
 
 <br>
 <br/>
+
+
+  <img
+    src="https://render.gitanimals.org/lines/doridori-samsam?pet-id=644725532285458545"
+    width="600"
+    height="120"
+  />
+  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=doridori-samsam&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
   
