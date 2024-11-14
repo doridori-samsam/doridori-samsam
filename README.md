@@ -31,4 +31,13 @@
 
 <br>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=doridori-samsam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=doridori-samsam&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/doridori-samsam"
+    width="150"
+    height="150"
+  />
+</a>
+  
