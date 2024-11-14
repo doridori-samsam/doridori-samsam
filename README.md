@@ -33,11 +33,15 @@
 <br/>
 
 
-  <img
-    src="https://render.gitanimals.org/lines/doridori-samsam?pet-id=644725532285458545"
+
+<p align="center">
+    <img
+    src="https://render.gitanimals.org/lines/doridori-samsam?pet-id=644725532285458544"
     width="600"
     height="120"
   />
+</p>
+  
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=doridori-samsam&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
