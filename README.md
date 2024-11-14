@@ -38,7 +38,7 @@
     <img
     src="https://render.gitanimals.org/lines/doridori-samsam?pet-id=644725532285458544"
     width="600"
-    height="120"
+    height="130"
   />
 </p>
   
